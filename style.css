@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: #222222;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.travel-image {
+    width: 300px;
+    max-width: 100%;
+    margin: 10px;
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
